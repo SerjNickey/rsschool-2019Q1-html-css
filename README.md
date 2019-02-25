@@ -1,2 +1,2 @@
 Siarhei Nikitsin
-https://www.codecademy.com/users/serjgreyson/achievements
+HTML CSS Basics: https://www.codecademy.com/users/serjgreyson/achievements
